@@ -3,7 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   padding-top: 10rem;
-  background-color: #0b6126;
+  background-color: #FFFFFF;
 }
 
 .container {
@@ -38,7 +38,7 @@ input[type="text"] {
 }
 
 button {
-  background-color: #248ae9;
+  background-color: #0b6126;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -53,3 +53,4 @@ canvas {
   pointer-events: none;
 
 }
+
