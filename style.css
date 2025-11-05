@@ -3,7 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   padding-top: 10rem;
-  background-color: #f8f9fb;
+  background-color: #0b6126;
 }
 
 .container {
@@ -51,4 +51,5 @@ button {
 
 canvas {
   pointer-events: none;
+
 }
